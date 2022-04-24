@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab8-e02a8"
+  },
+  "targets": {
+    "lab8-e02a8": {
+      "hosting": {
+        "task1": [
+          "lab8task1-1112"
+        ]
+      }
+    }
+  }
+}
